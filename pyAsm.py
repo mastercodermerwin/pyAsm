@@ -168,4 +168,4 @@ class pyAsm():
 		for i in range(0,len(data)):
 			p[i] = data[i]
 		
-		return ptr
+		return ptr 
